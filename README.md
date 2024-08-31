@@ -12,21 +12,21 @@ Download the latest Ubuntu ISO from here: ` https://ubuntu.com/download/desktop 
 sudo apt-get -y install git
 ```
 ```
-git clone https://github.com/andrewpayne68/blackbuntu.2310.git
+git clone https://github.com/andrewpayne68/blackbuntu.2404.git
 ```
 ```
-cd blackbuntu.2310
+cd blackbuntu.2404
 ```
 ```
-tar -xf blackbuntu-2310.tar.xz
+tar -xf blackbuntu-2404lts.tar.xz
 ```
 ```
-cd blackbuntu-2310 && ./build.sh
+cd blackbuntu-2404 && ./build.sh
 ```
 
 OR run the all-in-one bash command
 ```
-sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu.2310.git && cd blackbuntu.2310 && tar -xf blackbuntu-2310.tar.xz && cd blackbuntu-2310 && ./build.sh
+sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu.2404.git && cd blackbuntu.2404 && tar -xf blackbuntu-2404lts.tar.xz && cd blackbuntu-2404lts && ./build.sh
 ```
 
 
