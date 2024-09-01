@@ -32,7 +32,6 @@ sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackb
 ```
 
 \
-\
 
  > After the first reboot, run 
  > ```
