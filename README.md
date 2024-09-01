@@ -7,7 +7,7 @@ Download the latest Ubuntu ISO from here: ` https://ubuntu.com/download/desktop 
 
 (Note this script and theme will not work correctly on older builds of ubuntu, such as 22.04 LTS, check this repo for one for 22.04 - https://github.com/andrewpayne68/BLACKBUNTU.2204)
 
-Includes Thorium Browser, Brave Browser and Variety Wallpaper Changer.
+Includes Thorium Browser, Brave Browser, Tweaks, GDM Settings, Gedit (Matrix Themed) and Variety Wallpaper Changer, as well as many other open source OSINT and PenTest applications.
 
 
 Installation Script
