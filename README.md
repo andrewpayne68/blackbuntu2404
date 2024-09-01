@@ -40,7 +40,7 @@ sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackb
  > to update the system
 
 
-
+![image-1](https://github.com/andrewpayne68/blackbuntu2404/blob/main/Blackbuntu-desktop.png)
 
 ![image-1](https://github.com/andrewpayne68/BLACKBUNTU.2310/blob/main/Blackbuntu-desktop-2310.PNG)
 
