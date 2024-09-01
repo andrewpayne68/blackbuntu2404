@@ -32,12 +32,11 @@ sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackb
 ```
 \
 \
-After the first reboot, run 
+After the first reboot, run Nala to update Blackbuntu
 -
 ```
 sudo nala update && sudo nala upgrade -y
 ```
-to update the system
 
 \
 \
