@@ -23,12 +23,12 @@ cd blackbuntu2404
 tar -xf blackbuntu-2404.tar.xz
 ```
 ```
-./build.sh
+cd blackbuntu-2404 &&./build.sh
 ```
 
 OR run the all-in-one bash command
 ```
-sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu2404.git && cd blackbuntu2404 && tar -xf blackbuntu-2404.tar.xz && ./build.sh
+sudo apt-get -y install git && git clone https://github.com/andrewpayne68/blackbuntu2404.git && cd blackbuntu2404 && tar -xf blackbuntu-2404.tar.xz && cd blackbuntu-2404 && ./build.sh
 ```
 
 
