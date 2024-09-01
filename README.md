@@ -10,6 +10,9 @@ Download the latest Ubuntu ISO from here: ` https://ubuntu.com/download/desktop 
 Includes Thorium Browser, Brave Browser and Variety Wallpaper Changer.
 ##
 
+Installation Script
+-
+
 ```
 sudo apt-get -y install git
 ```
